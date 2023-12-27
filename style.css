@@ -201,6 +201,12 @@ footer a {
 .list {
 	overflow: hidden;
 }
+.list .row {
+	width: 1400%;
+}
+.list .row div {
+	width: 100%;
+}
 .list img {
 	border-radius: 1%;
 	width: 98%;
